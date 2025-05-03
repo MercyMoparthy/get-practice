@@ -1,0 +1,2 @@
+const user = 'Sneha';
+console.log('hello', ${user});
